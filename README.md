@@ -3,7 +3,6 @@
 <p>Clone the website to take a look
 <ul>
   <li>run the index.html</li>
-  <li></li>
 </ul>
 </p>
 
