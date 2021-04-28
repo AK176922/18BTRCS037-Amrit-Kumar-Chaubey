@@ -2,7 +2,7 @@
 
 <p>Clone the website to take a look
 <ul>
-  <li>run the index.html</li>
+  <li>run the assignmetn_1.html</li>
 </ul>
 </p>
 
